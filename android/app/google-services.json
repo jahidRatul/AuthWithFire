@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962180760870",
+    "firebase_url": "https://auth-with-fire.firebaseio.com",
+    "project_id": "auth-with-fire",
+    "storage_bucket": "auth-with-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962180760870:android:d0b7d39e9a85c0a1596de7",
+        "android_client_info": {
+          "package_name": "com.despotic.user_auth_with_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962180760870-41aa85vt02374ej7adr6t776ks5g538c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.despotic.user_auth_with_fire",
+            "certificate_hash": "60d8267b7b8b1fd30029f2ba5cef5ec588e67627"
+          }
+        },
+        {
+          "client_id": "962180760870-lu2i2e3sa8t5t5hf27oar3mju3eo5qgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbuW4nuUCSHqmhzrz8T-wgsFn8yvTiy68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962180760870-lu2i2e3sa8t5t5hf27oar3mju3eo5qgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
